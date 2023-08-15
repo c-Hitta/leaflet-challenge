@@ -8,3 +8,16 @@ body,
 html {
   height: 100%;
 }
+
+.legend {
+  border: 2px solid black;
+  border-radius: 8px;
+  background: white;
+}
+
+.legend h4 {
+  border: 1px solid black;
+  width: 100%;
+  margin: 0;
+  text-align: center;
+}
